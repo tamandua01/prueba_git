@@ -3,3 +3,7 @@ git add agregar archivos al stage(estado temporal) en git pero no al repositorio
 git clone descarga el repositorio de internet
 git commit guarda los archivos del stage en el repositorio.
 git commit -m "ejemplo de mensaje" 
+
+Repaso de vi
+vi es el editor de texto que sale cuando commiteas un cambio y aparece para escribir un comentario sobre ese commit.
+Todos los commit tienen que ir con un comentario de lo que se realizo en ese commit.
