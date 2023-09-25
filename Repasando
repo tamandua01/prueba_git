@@ -6,3 +6,6 @@ git commit -m "ejemplo de mensaje"
 
 git push este comando sube los cambios a internet
 git pull este comando trae los cambios de internet.
+Repaso de vi
+vi es el editor de texto que sale cuando commiteas un cambio y aparece para escribir un comentario sobre ese commit.
+Todos los commit tienen que ir con un comentario de lo que se realizo en ese commit.
