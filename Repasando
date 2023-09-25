@@ -3,3 +3,6 @@ git add agregar archivos al stage(estado temporal) en git pero no al repositorio
 git clone descarga el repositorio de internet
 git commit guarda los archivos del stage en el repositorio.
 git commit -m "ejemplo de mensaje" 
+
+git push este comando sube los cambios a internet
+git pull este comando trae los cambios de internet.
